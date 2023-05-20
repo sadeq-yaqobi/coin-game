@@ -2,7 +2,7 @@
 
 This project is a simple JavaScript application designed for educational purposes to practice and better understand JavaScript methods.
 
-![preview coin game image](assets/images/preview-coin-game-img-01.png)
+Play the coin game [here](https://sadeq-yaqobi.github.io/coin-game/).
 
 ## Introduction
 
